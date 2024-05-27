@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "tiltIn",
+			"loop": false,
+			"name": "tilt in"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "tiltOut",
+			"loop": false,
+			"name": "tilt out"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Sprites/Phase 2 Crisped Dave",
+	"position": [
+		-220,
+		90
+	],
+	"healthicon": "Phase 2 Crisped Dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		7,
+		87,
+		221
+	],
+	"camera_position": [
+		-30,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.816
+}

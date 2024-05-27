@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				295,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				187,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-90,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				183,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				130,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stand",
+			"indices": [],
+			"name": "Stand"
+		},
+		{
+			"offsets": [
+				-10,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "lay",
+			"loop": true,
+			"name": "Lay"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Sprites/Glitchscape Bambi",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "Glitchscape Bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.54117647059
+}
